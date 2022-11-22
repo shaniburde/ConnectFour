@@ -1,6 +1,7 @@
 # ConnectFour
-Desktop Connect Four - Java
+
 JetBrains Academy - Hyperskill
+JetBrains Project: Desktop Connect Four
 Track: Java Backend Developer
 
 Learning outcomes
